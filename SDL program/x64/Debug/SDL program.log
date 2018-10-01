@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\muhammad saad\source\repos\sdl program\sdl program\source.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\muhammad saad\source\repos\sdl program\sdl program\source.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\muhammad saad\source\repos\sdl program\sdl program\source.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL program.vcxproj -> C:\Users\Muhammad Saad\source\repos\SDL program\x64\Debug\SDL program.exe
